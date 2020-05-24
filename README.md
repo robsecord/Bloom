@@ -1,5 +1,5 @@
 # Bloom
-> A place for retail businesses to create and sell their own gift cards. Welcome to Gift cards 2.0
+> A place for retail businesses to create and sell their own gift cards. **Welcome to Gift cards 2.0**
 
 ## Motivation
 Gift cards are well known as a way for retail businesses to boost sales and bring in new customers.
