@@ -6,7 +6,7 @@ Gift cards are well known as a way for retail businesses to boost sales and brin
 
 In a period of crisis gift cards are an accessible way for customers to show their support for their favourite businesses, in simple terms customers are making an advance payment for goods or services.
 
-For businesses gift cards are an income stream open 24/7 regardless of whether their stores can be open.
+For businesses, gift cards are an income stream open 24/7 regardless of whether their stores can be open.
 
 ## Why?
 Right now many retail businesses need to add a lifeline to their business. **And there's nothing better than accepting advance payments for goods and services.**
@@ -18,7 +18,7 @@ Bloom's gift cards can earn interest. We give gift-card-creators the tools to co
 
 - all of the earned interest could be added to the gift card balance
 - all of the earned interest could go directly to the gift-card-creator
-- or any split
+- or any split between the two
 
 Resilient and persistent, nothing can stop Bloom's gift cards from being sold!
 
