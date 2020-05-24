@@ -1,22 +1,33 @@
 # Bloom
-> A place for retail businesses to create and sell their own gift cards. **Welcome to Gift cards 2.0**
+> The place for retail businesses to create and sell their own gift cards. **Welcome to Gift cards 2.0**
 
 ## Motivation
 Gift cards are well known as a way for retail businesses to boost sales and bring in new customers.
 
-In a period of crisis Gift cards are an accessible way for customers to show their support for their favourite businesses, in simple terms they are making an advance payment for goods or services.
+In a period of crisis gift cards are an accessible way for customers to show their support for their favourite businesses, in simple terms customers are making an advance payment for goods or services.
 
-For businesses this is an income stream that is open 24/7 regardless of whether their stores can be open.
+For businesses gift cards are an income stream open 24/7 regardless of whether their stores can be open.
 
 ## Why?
-Bloom offers an easy way for business owners to add a lifeline to their business. Resilient and persistent, nothing can stop Bloom's gift cards from being sold!
-
-**There's nothing better than advance payments for goods and services.**
+Right now many retail businesses need to add a lifeline to their business. **And there's nothing better than accepting advance payments for goods and services.**
 
 ## Gift cards 2.0
-Better incentives...
+A gift card that grows in value...
+
+Bloom's gift cards can earn interest. We give gift-card-creators the tools to configure how their gift card earns interest.
+
+- all of the earned interest could be added to the gift card balance
+- all of the earned interest could go directly to the gift-card-creator
+- or any split
+
+Resilient and persistent, nothing can stop Bloom's gift cards from being sold!
 
 ## System Overview
+Bloom gives business owners the tools - a self-service portal - to create and sell their own gift cards.
+
+Built on the promise of [Non-fungible tokens](https://opensea.io/blog/guides/non-fungible-tokens/) we bridge token standards to enable access to the underlying protocols of DeFi.
+
+We do this by wrapping tangible value, ERC-20 tokens, around unique ERC-721 tokens.
 
 ## User Stories
 * Toby  (see Toby's user persona on [Milanote](https://app.milanote.com/1J9Phh1KiYulbj))
@@ -44,6 +55,7 @@ Better incentives...
 Project has been submitted for judging, _HackMoney_ an [ETHGlobal](https://www.ethglobal.co/) hackathon.
 
 ## Next steps
+We see an opportunity for local governments and municipalities to boost the value of Bloom gift cards as part of their strategic economic response to the Coronavirus crisis. Essentially an easy way for them to present a monetary incentive to consumers.
 
 ## Contact
 Team formed by [Rob Secord](https://twitter.com/robsecord) - feel free to contact me!
