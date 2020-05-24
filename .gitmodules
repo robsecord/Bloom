@@ -1,0 +1,6 @@
+[submodule "BloomWeb"]
+	path = BloomWeb
+	url = git@github.com:robsecord/BloomWeb.git
+[submodule "BloomEth"]
+	path = BloomEth
+	url = git@github.com:robsecord/BloomEth.git
