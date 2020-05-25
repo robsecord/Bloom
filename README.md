@@ -1,5 +1,5 @@
-# Bloom gift cards
-> The place for retail businesses to create and sell their own gift cards. **Welcome to Gift cards 2.0**
+# Bloom Finance - Gift Cards that Grow!
+> The place for retail businesses to create and sell their own gift cards. **Welcome to Gift Cards 2.0**
 
 ## Motivation
 Gift cards are well known as a way for retail businesses to boost sales and bring in new customers.
@@ -11,7 +11,7 @@ For businesses, gift cards are an income stream open 24/7 regardless of whether 
 ## Why?
 Right now many retail businesses need to add a lifeline to their business. **And there's nothing better than accepting advance payments for goods and services.**
 
-## Gift cards 2.0
+## Gift Cards 2.0
 A gift card that grows in value...
 
 Bloom's gift cards can earn interest. We give gift-card-creators the tools to configure how their gift card earns interest.
@@ -36,20 +36,13 @@ We do this by wrapping tangible value, ERC-20 tokens, around unique ERC-721 toke
   - As a loyal customer I'd like to support my favourite local businesses so that they can continue to operate, and I can enjoy them, when the crisis is over.
 
 ## Key focus for UX
-- Adding a tent to the marketplace - here's how it might look on mobile and desktop
-- Automatically putting a tent back on the marketplace
-- Communication / notifications that ensure the renter understands what is happening now that the rental period has come to an end
+- Adding and listing Gift Cards on the marketplace
+- Redeeming Gift Cards at the Point-of-Sale
+- Viewing the Balance & Interest of the Gift Card
+- Communication / notifications to the Gift Card Holder
 
 ## How it works
-### For tent sellers
-- **List your tent** > Include some photos and a description
-- **Sell your tent** > Get money for your idle tent
-- **Save the planet** > When your tent is taken off your hands it will always be available here for rent
-### For tent hirers
-- **Find a tent to rent** > Choose from a wide range of good-quality used tents
-- **Save money** > Pay for the rental and a refundable deposit
-- **Select rental period** > Choose how long you want to keep the tent
-- **Take care of the tent** > Once the rental period is up you’re the custodian until the next renter comes along
+- TODO..
 
 ## Status
 Project has been submitted for judging, _HackMoney_ an [ETHGlobal](https://www.ethglobal.co/) hackathon.
