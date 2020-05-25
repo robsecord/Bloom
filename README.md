@@ -32,7 +32,7 @@ We do this by wrapping tangible value, ERC-20 tokens, around unique ERC-721 toke
 ## User Stories
 * Alice
   - As a bakery owner I want to add an income stream whilst my business is closed so that I'm better placed to weather the impact closure has on my business.
-* Bob  (see Rachel's user persona on [Milanote](https://app.milanote.com/1J9Pro1KiYulbl))
+* Bob
   - As a loyal customer I'd like to support my favourite local businesses so that they can continue to operate, and I can enjoy them, when the crisis is over.
 
 ## Key focus for UX
