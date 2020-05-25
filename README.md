@@ -56,7 +56,7 @@ We do this by wrapping tangible value, ERC-20 tokens, around unique ERC-721 toke
 2. Watch the Value of your Gift Card Grow!
 
 - As long as the Gift Card NFT exists with a deposited value, it will grow with interest!
-- We use Aave to deposit stable-coins and receive a yield-bearing coin that accrues interest.  Each Gift-Card is an NFT connected to its own Smart-Wallet which holds the Aave yield-bearing token and accrues interest.  The NFT is the owner of the Smart-Wallet and only the owner of the NFT can access or redeem the assets held in the Smart-Wallet.  
+- We use [Aave](https://aave.com/) to deposit stable-coins and receive a yield-bearing coin that accrues interest.  Each Gift-Card is an NFT connected to its own Smart-Wallet which holds the Aave yield-bearing token and accrues interest.  The NFT is the owner of the Smart-Wallet and only the owner of the NFT can access or redeem the assets held in the Smart-Wallet.  
 
 3. Redeem your Gift Card!
 
