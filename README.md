@@ -23,6 +23,8 @@ Bloom's gift cards can earn interest. We give gift-card-creators the tools to co
 - all of the earned interest could go directly to the gift-card-creator
 - or any split between the two
 
+Gift card creators can add their own credit to the balance giving gift card purchasers further incentive to purchase now.
+
 Resilient and persistent, nothing can stop Bloom's gift cards from being sold!
 
 ## System Overview
