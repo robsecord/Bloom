@@ -25,7 +25,7 @@ Bloom's gift cards can earn interest. We give gift-card-creators the tools to co
 
 Gift card creators can add their own credit to the balance giving gift card purchasers further incentive to purchase now.
 
-Resilient and persistent, nothing can stop Bloom's gift cards from being sold!
+**Resilient and persistent, nothing can stop Bloom's gift cards from being sold!**
 
 ## System Overview
 
