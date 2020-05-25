@@ -70,6 +70,8 @@ We do this by wrapping tangible value, ERC-20 tokens, around unique ERC-721 toke
 Project has been submitted for judging, _HackMoney_ an [ETHGlobal](https://www.ethglobal.co/) hackathon.
 
 ## Next steps
+Develop more UI.
+
 We see an opportunity for local governments and municipalities to boost the value of Bloom gift cards as part of their strategic economic response to the Coronavirus crisis. Essentially an easy way for them to present a monetary incentive to consumers in their vicinity.
 
 ## Contact
