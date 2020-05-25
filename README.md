@@ -1,4 +1,4 @@
-# Bloom
+# Bloom gift cards
 > The place for retail businesses to create and sell their own gift cards. **Welcome to Gift cards 2.0**
 
 ## Motivation
@@ -30,10 +30,10 @@ Built on the promise of [Non-fungible tokens](https://opensea.io/blog/guides/non
 We do this by wrapping tangible value, ERC-20 tokens, around unique ERC-721 tokens.
 
 ## User Stories
-* Toby  (see Toby's user persona on [Milanote](https://app.milanote.com/1J9Phh1KiYulbj))
-  - As a tent owner I want to sell my tent so that I can get some money back for it whilst ensuring its put to good use / responsibly used.
-* Rachel  (see Rachel's user persona on [Milanote](https://app.milanote.com/1J9Pro1KiYulbl))
-  - As someone in the market for a tent I'd rather rent than own a tent, to save money and to depend on less stuff.
+* Alice
+  - As a bakery owner I want to add an income stream whilst my business is closed so that I'm better placed to weather the impact closure has on my business.
+* Bob  (see Rachel's user persona on [Milanote](https://app.milanote.com/1J9Pro1KiYulbl))
+  - As a loyal customer I'd like to support my favourite local businesses so that they can continue to operate, and I can enjoy them, when the crisis is over.
 
 ## Key focus for UX
 - Adding a tent to the marketplace - here's how it might look on mobile and desktop
